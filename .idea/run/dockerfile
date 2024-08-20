@@ -1,0 +1,2 @@
+FROM      centos8
+RUN       yum install gcc -yum
